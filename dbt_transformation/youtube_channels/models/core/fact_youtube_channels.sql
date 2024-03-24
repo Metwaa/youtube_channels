@@ -4,7 +4,7 @@
     )
 }}
 
-with fact_youtube_channels_data as(
-    select * from {{ref("stg_tbl_external_youtube_channels")}}
+with tbl_external_youtube_channels as (
+    select * from {{ ref('stg_tbl_external_youtube_channels') }}
 )
-select * from fact_youtube_channels_data
+select * from tbl_external_youtube_channels
