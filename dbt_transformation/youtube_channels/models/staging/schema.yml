@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+      database: dez-finalproject
+      schema: youtube_channels
+
+      tables:
+        - name: tbl_external_youtube_channels
