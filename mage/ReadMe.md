@@ -27,6 +27,9 @@ Now, navigate to http://localhost:6789 in your browser! You're ready to get star
   - ### Data Expoter to GCS
      <img src = "images/pipeline_to_gcs/youtubechannels_to_gcs_parquet.png">
 
+  - ### CSV data Transferred into Data Lake
+     <img src = "images/Data Lake.png">
+
   ## Second Pipeline: Big Query (DWH)
   
   - ### Data Loader from GCS
@@ -37,3 +40,4 @@ Now, navigate to http://localhost:6789 in your browser! You're ready to get star
   
   - ### Data Expoter to Big Query
     <img src = "images/pipeline_to_dwh/transform_youtubechannelsdata_To_BigQuery.png">
+    
