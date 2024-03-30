@@ -29,7 +29,7 @@ Create instance with the following specifications:
 - go to your local terminal and type
   
       ssh <hostname to use when connecting>
-Congrats! You're now connected to your VM 🤩
+## Congrats! You're now connected to your VM 🤩
 
 # Connecting and setting up VSCode
 - install VS Code locally if you don't have it already
@@ -52,12 +52,13 @@ Congrats! You're now connected to your VM 🤩
 
 # Setup Terraform (IaC)
 ## install terraform 
-   - Open a new terminal then write the below to get terraform:
+   - Open a new terminal then run the below commands to get terraform:
      
           wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
+     
           echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/hashicorp.list
      
-  - install terraform
+  - after previous step completed run the below command
   
         sudo apt update && sudo apt install terraform
     
@@ -74,11 +75,14 @@ Congrats! You're now connected to your VM 🤩
         terraform plan
         terraform apply
 
+## Congrats! your infrastructure are built successfully 🙏
+ <img src="images/bucket.png">
+
 # Mage Orchistration
-- Following the steps here 👉
+- Following the steps here 👉 <a href = ""> Mage Steps </a>
 
 # dbt
-Following the steps here 👉 
+Following the steps here 👉 <a href = ""> dbt Steps </a>
 
 # Google Looker Studio
-Following the steps here 👉 
+Following the steps here 👉 <a href = ""> Looker Studio Steps </a>
