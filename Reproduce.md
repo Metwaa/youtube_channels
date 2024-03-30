@@ -85,4 +85,26 @@ Create instance with the following specifications:
 Following the steps here 👉 <a href = "dbt_transformation/youtube_channels/README.md"> dbt Steps </a>
 
 # Google Looker Studio
-Following the steps here 👉 <a href = ""> Looker Studio Steps </a>
+Go to <a href = "https://lookerstudio.google.com/navigation/reporting"> Looker Studio </a> create an account if you don't have it already
+
+- Create a Data Source
+  
+  <img src="images/LookerStudio/DataSource.png">
+  
+- Choose `Big Query` as a google connector
+  
+  <img src="images/LookerStudio/BigQuerySource.png">
+
+- Choose `Dataset`
+  
+  <img src="images/LookerStudio/DataSet.png">
+
+- Define `Aggregation`
+  
+  <img src="images/LookerStudio/Aggregation.png">
+
+- Customize your Dashboard
+  
+  <img src="images/LookerStudio/presentData.png"> 
+
+# Congrats you build your own project.
