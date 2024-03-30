@@ -44,7 +44,7 @@ Now, navigate to http://localhost:6789 in your browser! You're ready to get star
 ### Big Query table created successfully
    <img src = "../images/BigQuery.png">
 
-Continue to <a href=""> dbt Platform </a>
+Continue to <a href = "../dbt_transformation/youtube_channels/README.md"> dbt Platform </a>
 
 Back to 🔙 <a href="../Reproduce.md">  Reproduce </a>
 
