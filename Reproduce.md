@@ -79,10 +79,10 @@ Create instance with the following specifications:
  <img src="images/bucket.png">
 
 # Mage Orchistration
-- Following the steps here 👉 <a href = "mage/ReadMe.md"> Mage Steps </a>
+## 👉 <a href = "mage/ReadMe.md"> Mage instructions </a>
 
 # dbt
-Following the steps here 👉 <a href = "dbt_transformation/youtube_channels/README.md"> dbt Steps </a>
+## 👉 <a href = "dbt_transformation/youtube_channels/README.md"> dbt instructions </a>
 
 # Google Looker Studio
 Go to <a href = "https://lookerstudio.google.com/navigation/reporting"> Looker Studio </a> create an account if you don't have it already
@@ -107,4 +107,4 @@ Go to <a href = "https://lookerstudio.google.com/navigation/reporting"> Looker S
   
   <img src="images/LookerStudio/presentData.png"> 
 
-# Congrats you build your own project.
+    # `Congrats you build your own project`
