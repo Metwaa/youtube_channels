@@ -79,7 +79,7 @@ Create instance with the following specifications:
  <img src="images/bucket.png">
 
 # Mage Orchistration
-- Following the steps here 👉 <a href = ""> Mage Steps </a>
+- Following the steps here 👉 <a href = "mage/ReadMe.md"> Mage Steps </a>
 
 # dbt
 Following the steps here 👉 <a href = ""> dbt Steps </a>
