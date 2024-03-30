@@ -1,8 +1,10 @@
 # Data Engineering Zoomcamp 2024 - Project
 
-This repository contains my final project for the <a href='https://github.com/DataTalksClub/data-engineering-zoomcamp'> Data Engineering Zoomcamp </a> by <a href="https://github.com/DataTalksClub"> DataTalks Club </a>. 
+### This repository contains my final project for the <a href='https://github.com/DataTalksClub/data-engineering-zoomcamp'> Data Engineering Zoomcamp </a> by <a href="https://github.com/DataTalksClub"> DataTalks Club </a>
 
-I decided to focus on analyzing a YouTube dataset.
+#### I decided to focus on analyzing a YouTube dataset provided by <a href = "https://www.kaggle.com/datasets/asaniczka/2024-youtube-channels-1-million"> Kaggle </a>
+
+   <img src = "images/Youtube-Logo.jpg">
 
 # Problem Description
 YouTube is a massive video platform with countless videos, channels, and subscribers. However, all this data is stored in a basic format (like a csv) that makes it difficult to explore and gain insights.
@@ -31,7 +33,8 @@ Finally, I used Looker Studio, a business intelligence platform, to visualize th
 # Pipeline
 <img src = "images/Pipeline.png">
 
-# Reproduce 
+# Reproduce 💻🖱️
+For reproduce the project, all instructions available <a href = "Reproduce.md"> here </a>
 
 # Visualizations
 
