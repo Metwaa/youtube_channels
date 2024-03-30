@@ -82,7 +82,7 @@ Create instance with the following specifications:
 - Following the steps here 👉 <a href = "mage/ReadMe.md"> Mage Steps </a>
 
 # dbt
-Following the steps here 👉 <a href = ""> dbt Steps </a>
+Following the steps here 👉 <a href = "dbt_transformation/youtube_channels/README.md"> dbt Steps </a>
 
 # Google Looker Studio
 Following the steps here 👉 <a href = ""> Looker Studio Steps </a>
