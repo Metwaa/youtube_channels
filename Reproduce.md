@@ -53,7 +53,7 @@ Create instance with the following specifications:
 - choose: Add Key ➡️ Create new key ➡️ JSON ➡️ Create
 - key will be downloaded onto local computer
 
-# Setup Terraform (IaC)    <img src = "images/icons/cloud.png" width="100" height="100">
+# <img src = "images/icons/terraform.png" width="35" height="35"> Setup Terraform (IaC)    
 ## install terraform 
    - Open a new terminal then run the below commands to get terraform:
      
