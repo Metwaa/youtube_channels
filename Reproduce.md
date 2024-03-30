@@ -1,4 +1,7 @@
-# Setup project
+# <img src = "images/icons/cloud.png" width="35" height="35"> Setup project
+
+   
+
 Create new project in <a href = "https://console.cloud.google.com/"> Google Cloud Console </a>
 
 # Setup VM
@@ -50,7 +53,7 @@ Create instance with the following specifications:
 - choose: Add Key ➡️ Create new key ➡️ JSON ➡️ Create
 - key will be downloaded onto local computer
 
-# Setup Terraform (IaC)
+# Setup Terraform (IaC)    <img src = "images/icons/cloud.png" width="100" height="100">
 ## install terraform 
    - Open a new terminal then run the below commands to get terraform:
      
@@ -78,13 +81,14 @@ Create instance with the following specifications:
 ## Congrats! your infrastructure are built successfully 🙏
  <img src="images/bucket.png">
 
-# Mage Orchistration
-## 👉 <a href = "mage/ReadMe.md"> Mage instructions </a>
+# <img src = "images/icons/Mage.jpeg" width="35" height="35">  Mage Orchistration  
 
-# dbt
-## 👉 <a href = "dbt_transformation/youtube_channels/README.md"> dbt instructions </a>
+ 👉 The instructions are available <a href = "mage/ReadMe.md"> here </a>
 
-# Google Looker Studio
+# <img src = "images/icons/dbt.png" width="35" height="35">  dbt   
+ 👉 The instructions are available <a href = "dbt_transformation/youtube_channels/README.md"> here </a>
+
+# <img src = "images/icons/lookerStudio.png" width="35" height="35">  Google Looker Studio    
 Go to <a href = "https://lookerstudio.google.com/navigation/reporting"> Looker Studio </a> create an account if you don't have it already
 
 - Create a Data Source
