@@ -29,6 +29,7 @@ I created a data pipeline that leverages Kaggle as the data source for YouTube c
 Finally, I used Looker Studio, a business intelligence platform, to visualize the transformed data in an interactive dashboard.
 
 # Pipeline
+<img src = "images/Pipeline.png">
 
 # Reproduce 
 
